@@ -1,0 +1,41 @@
+_repo: Dumpling-b-A-detective-love-story-of-a-great-labour-rising_73740
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+creator:
+  author:
+    agent_name: Kernahan, Coulson
+    alias: Kernahan, John Coulson
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '46475'
+    url: http://www.gutenberg.org/2009/agents/46475
+    wikipedia: https://en.wikipedia.org/wiki/Coulson_Kernahan
+description: ''
+gutenberg_issued: '2024-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73740'
+language: en
+pgterms:marc904: https://archive.org/details/dumplingadetect01kerngoog/
+pgterms:marc905: 20210209004048kernahan
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bB. W. Dodge and Company, $c1906, copyright 1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dumpling : $b A detective love story of a great labour rising'
+url: http://www.gutenberg.org/ebooks/73740
