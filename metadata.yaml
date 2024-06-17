@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4541'
     url: http://www.gutenberg.org/2009/agents/4541
     wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+covers:
+- cover_type: archival
+  image_path: 73740-h/images/cover.jpg
 creator:
   author:
     agent_name: Kernahan, Coulson
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46475
     wikipedia: https://en.wikipedia.org/wiki/Coulson_Kernahan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73740#Dumpling-b-A-detective-love-story-of-a-great-labour-rising
 gutenberg_issued: '2024-05-31'
 gutenberg_type: Text
 identifiers:
